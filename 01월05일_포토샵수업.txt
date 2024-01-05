@@ -1,0 +1,20 @@
+feather : 가장자리 부드러운 정도
+x : 전경색과 배경색 전환
+d : 디폴트셋팅(검정/흰색)
+alt + delete : 전경색채색
+ctrl + delete : 배경색채색
+ctrl + d : 선택영역해제
+shift + 드래그 (선택영역추가)
+alt + 드래그 (선택영역제거)
+[ : 사이즈작아짐
+] : 사이즈커짐
+ctrl + [ : 레이어 한단계 내리기
+ctrl + ] : 레이어 한단계 올리기
+ctrl shift + [ : 레이어 맨아래로 내리기
+ctrl shift + ] : 레이어 맨위로로 올리기
+ctrl + j : 전체복사나 선택영역 추출복사
+ctrl + shift+ j : 잘라서 분리하기
+ctrl + t : 변형
+ctrl + shift + i : inverse (선택영역반전)
+CTRL + ENTER : 패스선택(펜툴로 그린상태에서)
+
